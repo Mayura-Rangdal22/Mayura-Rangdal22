@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Mayura Rangdal.</h1>
+
 <h3 align="center">An aspiring Data Science and Development Enthusiast.</h3>
 <img align="right" alt="Programmer" width="300"src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayura-rangdal22&label=Profile%20views&color=0e75b6&style=flat" alt="mayura-rangdal22" /> </p>
 
 - 🎓 I’m currently pursuing [undergraduate degree from PES Modern College of Engineering.](https://moderncoe.edu.in/)
 
